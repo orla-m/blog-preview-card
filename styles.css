@@ -15,7 +15,7 @@ body {
 .container {
     background-color: hsl(0, 0%, 100%);
     width: min-content;
-    box-shadow: 10px 10px #111111;
+    box-shadow: 8px 8px #111111;
     border-radius: 20px;
     border-style: solid;
     border-width: 1px;
